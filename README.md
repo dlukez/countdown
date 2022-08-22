@@ -5,7 +5,7 @@ Faster than Susie Dent!™
 
 ## Conundrums
 
-This problem is a simple anagram problem.
+This problem is a simple anagram problem. This script will only work for input words of 8 or 9 characters.
 
 ```Usage
 > ./conundrum.py limpaunt
